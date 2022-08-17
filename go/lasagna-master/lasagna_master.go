@@ -1,4 +1,4 @@
-package lasagna
+package lasagna_master
 
 func PreparationTime(layers []string, averagePreparationTime int) int {
 	if averagePreparationTime == 0 {
